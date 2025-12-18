@@ -4,4 +4,6 @@ Creating a new branch is quick.
 
 新建分支dev
 
+Creating a new branch is quick AND simple.
+
 
